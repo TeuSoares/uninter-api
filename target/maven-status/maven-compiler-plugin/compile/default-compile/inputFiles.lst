@@ -1,0 +1,10 @@
+/home/mateusdev/studies/baozistore/src/main/java/com/baozistore/BaozistoreApplication.java
+/home/mateusdev/studies/baozistore/src/main/java/com/baozistore/controller/ClienteController.java
+/home/mateusdev/studies/baozistore/src/main/java/com/baozistore/controller/PedidoController.java
+/home/mateusdev/studies/baozistore/src/main/java/com/baozistore/controller/ProdutoController.java
+/home/mateusdev/studies/baozistore/src/main/java/com/baozistore/model/Cliente.java
+/home/mateusdev/studies/baozistore/src/main/java/com/baozistore/model/Pedido.java
+/home/mateusdev/studies/baozistore/src/main/java/com/baozistore/model/Produto.java
+/home/mateusdev/studies/baozistore/src/main/java/com/baozistore/repository/ClienteRepository.java
+/home/mateusdev/studies/baozistore/src/main/java/com/baozistore/repository/PedidoRepository.java
+/home/mateusdev/studies/baozistore/src/main/java/com/baozistore/repository/ProdutoRepository.java
